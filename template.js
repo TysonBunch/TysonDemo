@@ -36,7 +36,7 @@ function prepare(config, replaceInFiles, moveFile, removeFile) {
     var path = require('path');
 
     // Values in template
-    var templateAppName = 'TysonDemoTemplate';
+    var templateAppName = 'TysonDemo';
     var templatePackageName = 'com.salesforce.tysondemonativetemplate';
     var templateOrganization = 'iOSNativeTysonTemplateOrganizationName';
 
